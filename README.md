@@ -1,6 +1,6 @@
 ## Hi, I am Wambetsa Emmanuel
 
-- 🔭 I’m a Python Developer
+- 🔭 I’m a ```diff +Python Developer```
 - 🌱 I’m currently learning Javascript
 - 🌱 I’m the founder of ##Jewstechs Limited##
 - 👯 I’m looking to interact and collaborate with same-minded individuals
@@ -9,3 +9,10 @@
 - 📫 Reach me at, call: +254792026263 or mail: wambetsae@gmail.com
 - 😄 You can follow me on Twitter at @wambetsa254
 - ⚡ Fun fact: DevelopersDevelopers often inject humor into their code through comments or variable names. Easter eggs and inside jokes are not uncommon in software projects.
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
