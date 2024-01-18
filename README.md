@@ -1,12 +1,9 @@
-## Hi, I am \textcolor{yellow}{Wambetsa\ Emmanuel}
+## Hi, I am Wambetsa Emmanuel
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
 - 🌱 I’m the founder of
-```diff
-+ __Jewstechs Limited__
-```
-
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 - 👯 I’m looking to interact and collaborate with same-minded individuals
 - 🤔 I have been enjoying web development ever since I created my first Python project
 - 💬 I am currently looking for a backed developer
