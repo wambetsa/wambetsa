@@ -1,4 +1,4 @@
-## Hi, I am $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+## Hi, I am $\textcolor{yellow}{Wambetsa\ Emmanuel}$
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
