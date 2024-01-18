@@ -1,8 +1,8 @@
-#### Hi, I am $\textcolor{yellow}{Wambetsa\ Emmanuel}$
+#### Hi, I am $\textcolor{blue}{Wambetsa\ Emmanuel}$
 
-- 🔭 I’m a $\textcolor{yellow}{Python Developer}$
+- 🔭 I’m a $\textcolor{blue}{Python Developer}$
 - 🌱 I’m currently learning Javascript
-- 🌱 I’m the founder of $\textcolor{yellow}{Jewstechs Limited}$
+- 🌱 I’m the founder of $\textcolor{blue}{Jewstechs Limited}$
 - 👯 I’m looking to interact and collaborate with same-minded individuals
 - 🤔 I have been enjoying web development ever since I created my first Python project
 - 💬 I am currently looking for a backed developer
