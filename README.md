@@ -1,4 +1,4 @@
-## Hi, I am <code style="color : cyan>__Wambetsa Emmanuel__</code>
+## Hi, I am ## $\textcolor{yellow}{__Wambetsa\ Emmanuel__This\ is\ a\ Big\ Title}$
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
