@@ -1,4 +1,4 @@
-## Hi, I am <p style="color:blue;">__Wambetsa Emmanuel__</p>
+## Hi, I am <span style="color:blue;">__Wambetsa Emmanuel__</span>
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
