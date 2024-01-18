@@ -1,6 +1,6 @@
 #### Hi, I am $\textcolor{cyan}{Wambetsa\ Emmanuel}$
 
-- 🔭 I’m a $\textcolor{cyan}{Python Developer}$
+- 🔭 I’m a $textcolor{cyan}{Python Developer}$
 - 🌱 I’m currently learning Javascript
 - 🌱 I’m the founder of $\textcolor{cyan}{Jewstechs Limited}$
 - 👯 I’m looking to interact and collaborate with same-minded individuals
