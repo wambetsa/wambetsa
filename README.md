@@ -1,7 +1,4 @@
-## Hi, I am
-```diff
-+ __Wambetsa Emmanuel__
-```
+## Hi, I am ```diff + __Wambetsa Emmanuel__```
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
