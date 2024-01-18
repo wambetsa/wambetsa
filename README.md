@@ -1,4 +1,4 @@
-## Hi, I am `RGB(0,255,0)__Wambetsa Emmanuel__`
+## Hi, I am <code style="color : cyan>__Wambetsa Emmanuel__</code>
 
 - 🔭 I’m a __Python Developer__
 - 🌱 I’m currently learning Javascript
