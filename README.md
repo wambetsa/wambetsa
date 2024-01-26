@@ -1,7 +1,7 @@
 #### Hi, I am $\textcolor{cyan}{Wambetsa\ Emmanuel}$
 
 - 🔭 I’m a $\textcolor{cyan}{Python Developer}$
-- 🌱 I’m the ceo and founder of $\textcolor{cyan}{Jewstechs Limited}$
+- 🌱 I’m the ceo and founder of $\textcolor{cyan}{.....}$
 - 👯 I’m looking to interact and collaborate with same-minded team-members
 - 🤔 I have been enjoying web development ever since I created my first Python project
 - 💬 I am currently looking for a backed developer role
