@@ -1,7 +1,7 @@
 #### Hi, I am $\textcolor{cyan}{Wambetsa\ Emmanuel}$
 
-- 🔭 I’m a $\textcolor{cyan}{Python Developer}$
-- 💬 I’m also a $\textcolor{cyan}{Technical Writer}$
+- 🔭 I’m a $\textcolor{cyan}{Python\ Developer}$
+- 💬 I’m also a $\textcolor{cyan}{Technical\ Writer}$
 - 🌱 I’m the founder $\textcolor{cyan}{.....}$
 - 👯 I’m looking to interact and collaborate with same-minded team-members
 - 🤔 I have been enjoying web development ever since I created my first Python project
